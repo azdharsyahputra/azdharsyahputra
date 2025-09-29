@@ -26,12 +26,6 @@ I'm currently learning **Rust** 🧠 while building my portfolio projects like *
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/azdharsyahputra/azdharsyahputra/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Connect with me
 
 - 🐦 [Twitter](https://twitter.com/muhammadazdhar3)
@@ -39,3 +33,4 @@ I'm currently learning **Rust** 🧠 while building my portfolio projects like *
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
