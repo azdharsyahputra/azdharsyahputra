@@ -31,7 +31,9 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 
 ![Ajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdharsyahputra&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azdharsyahputra&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azdharsyahputra&theme=default" width="90%"/>
+</p>
 ---
 
 ### 📫 **Connect With Me**
@@ -41,5 +43,6 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
 
 
