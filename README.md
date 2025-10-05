@@ -20,7 +20,7 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ### 🧰 **Tech Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,go,rust,laravel,express,react,tailwind,git,mysql,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,go,rust,laravel,express,react,tailwind,git,mysql,docker,linux" />
 </p>
 
 > Comfortable working across frontend, backend, and system-level code.
@@ -39,6 +39,7 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
 
 
 
