@@ -28,8 +28,12 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ### 📊 **GitHub Stats**
-![Ajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdharsyahputra&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azdharsyahputra&layout=compact&theme=tokyonight)
+<p align="left">
+<a href="https://github.com/azdharsyahputra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azdharsyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azdharsyahputra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 
 ### 📫 **Connect With Me**
@@ -39,6 +43,7 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
 
 
 
