@@ -10,11 +10,11 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ### 🚀 **Current Focus**
-- 🦀 Deep dive into **Rust**
-- ⚙️ Strengthening **backend architecture** & API design  
-- 🧱 Building scalable fullstack apps with React + Tailwind  
+- 🦀 Deep diving into Rust for system-level and backend development
+- ⚙️ Strengthening backend architecture and API design principles
+- 🧱 Building scalable full-stack applications with React + Tailwind CSS
 - 🌍 Preparing for future transition to **Web3** (2026+)
-
+- 🔗 Actively developing Unbound — a distributed social-media platform built with Go, Rust, and React
 ---
 
 ### 🧰 **Tech Stack**
@@ -42,6 +42,7 @@ At the same time, I'm working as a **Fullstack Web Developer Intern**, handling 
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
 
 
 
