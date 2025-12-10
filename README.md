@@ -13,9 +13,9 @@ At the same time, I'm working as a **Fullstack Developer Intern**, building real
 
 - 🦀 Deep diving into **Rust** for backend & system-level programming  
 - ⚙️ Strengthening backend architecture, distributed systems & API design  
-- 🧱 Building scalable full-stack apps with **React + Tailwind CSS**  
-- 🔍 Actively developing **Unbound v2** — a distributed social media platform (Go + Rust microservices)  
+- 🧱 Building scalable full-stack apps with **React + Tailwind CSS**
 - 🌍 Preparing for a future transition into **Web3 development (2026+)**  
+- 🔍 Actively developing **Unbound v2** — a distributed social media platform (Go + Rust microservices)  
 - ⚡ Developing **Evergon**, a modern local dev environment engine (Go, Nginx, PHP-FPM)
 
 ---
@@ -46,7 +46,7 @@ Hybrid microservices:
 React + Tailwind mini-RPG with quests, leveling, achievements, inventory, and fantasy UI/UX.
 
 ### **Industrial Systems — PT CBI**
-Building real-time dashboards, production analytics, reject tracking, and monitoring systems using **CI4 + MSSQL**, including Ballmill, Pasting, Punching, and Casting modules.
+Building real-time dashboards, production analytics, reject tracking, and monitoring systems using **CI4 + MSSQL**.
 
 ---
 
@@ -138,3 +138,4 @@ Building real-time dashboards, production analytics, reject tracking, and monito
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
