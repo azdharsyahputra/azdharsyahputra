@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ajar
 
 🎓 **Informatics Student**
-💻 **Fullstack Web Developer** | ⚡ **Founder Evergon**  
-🦀 **Rust Enthusiast** | 🌐 Future **Web3 Developer**
+💻 **Fullstack Web Developer** | ⚡ **Founder PIT**  
+🦀 **Rust Enthusiast**
 
 I'm currently sharpening my **Rust** backend skills while building production-grade portfolio projects such as **ArcaneForge**, a fantasy RPG web app ⚔️ built with React & Tailwind.  
 At the same time, I'm working as a **Fullstack Developer Intern**, building real-world web systems across backend (API, MSSQL, CI4) and frontend (UI/UX, dashboards).
@@ -14,7 +14,6 @@ At the same time, I'm working as a **Fullstack Developer Intern**, building real
 - 🦀 Deep diving into **Rust** for backend & system-level programming  
 - ⚙️ Strengthening backend architecture, distributed systems & API design  
 - 🧱 Building scalable full-stack apps with **React + Tailwind CSS**
-- 🌍 Preparing for a future transition into **Web3 development (2026+)**  
 - 🔍 Actively developing **Unbound v2** — a distributed social media platform (Go + Rust microservices)  
 - ⚡ Developing **Evergon**, a modern local dev environment engine (Go, Nginx, PHP-FPM)
 
@@ -32,7 +31,7 @@ At the same time, I'm working as a **Fullstack Developer Intern**, building real
 
 ## 🔥 Highlight Projects
 
-### **Evergon — Developer Environment Engine**
+### **PIT — Developer Environment Engine**
 A cross-platform dev engine built with Go.  
 Features multi-PHP version switching, Nginx/Apache runtime, auto-vhost, project isolation, and CLI + panel UI.
 
@@ -68,3 +67,4 @@ Building real-time dashboards, production analytics, reject tracking, and monito
 ---
 
 ⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+
