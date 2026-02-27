@@ -1,71 +1,84 @@
 # 👋 Hi, I'm Ajar
 
-🎓 **Informatics Student**
-💻 **Fullstack Web Developer** | ⚡ **Founder PIT**  
-🦀 **Rust Enthusiast**
+🎓 **Informatics Student**\
+⚙️ **Backend Engineer (Go)** \| 💻 **Fullstack Developer** \| ⚡
+**Founder PIT**\
+🦀 **Rust & Systems Programming Enthusiast**
 
-I'm currently sharpening my **Rust** backend skills while building production-grade portfolio projects such as **ArcaneForge**, a fantasy RPG web app ⚔️ built with React & Tailwind.  
-At the same time, I'm working as a **Fullstack Developer Intern**, building real-world web systems across backend (API, MSSQL, CI4) and frontend (UI/UX, dashboards).
+I'm currently working as a **Full-time Backend Engineer (Go)**, building
+production-grade backend systems, APIs, and distributed services.\
+My focus is on designing **scalable architectures, microservices, and
+high-performance backend infrastructure**.
 
----
+Alongside my professional work, I actively build portfolio-level systems
+such as distributed platforms, dev tools, and full-stack applications to
+deepen my expertise in backend and system engineering.
+
+------------------------------------------------------------------------
 
 ## 🚀 Current Focus
 
-- 🦀 Deep diving into **Rust** for backend & system-level programming  
-- ⚙️ Strengthening backend architecture, distributed systems & API design  
-- 🧱 Building scalable full-stack apps with **React + Tailwind CSS**
-- 🔍 Actively developing **Unbound v2** — a distributed social media platform (Go + Rust microservices)  
-- ⚡ Developing **PIT**, a modern local dev environment engine (Go, Nginx, PHP-FPM)
+-   ⚙️ Building production backend systems using **Go**
+-   🧱 Designing scalable **microservices & distributed architectures**
+-   🦀 Advancing **Rust** for high-performance backend and system tools\
+-   🔍 Developing **Unbound v2** --- distributed social media platform
+    (Go + Rust microservices)\
+-   ⚡ Developing **PIT**, a modern developer environment engine (Go,
+    Nginx, PHP-FPM)\
+-   🧠 Strengthening expertise in **concurrency, system design, and
+    backend infrastructure**
 
----
+------------------------------------------------------------------------
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,rust,go,laravel,express,react,tailwind,git,mysql,docker,linux" />
-</p>
+![Tech
+Stack](https://skillicons.dev/icons?i=go,rust,php,laravel,react,typescript,javascript,tailwind,docker,postgres,mysql,redis,linux,git,nginx)
 
-> Comfortable across **frontend, backend, microservices, and dev-tools engineering**.
+Focused on **backend engineering, distributed systems, and developer
+tools**, with full-stack capability when needed.
 
----
+------------------------------------------------------------------------
 
 ## 🔥 Highlight Projects
 
-### **PIT — Developer Environment Engine**
-A cross-platform dev engine built with Go.  
-Features multi-PHP version switching, Nginx/Apache runtime, auto-vhost, project isolation, and CLI + panel UI.
+### PIT --- Developer Environment Engine
 
-### **Unbound v2 — Distributed Social Media Architecture**
-Hybrid microservices:  
-- Go services: Auth, User, Chat, Notifications  
-- Rust services: Post, Feed, Recommendation  
-- Event-driven pipeline with Kafka and an API Gateway for unified access
+Cross-platform local development engine built with Go.\
+Features multi-PHP version switching, Nginx runtime, project isolation,
+auto-vhost, CLI, and web panel.
 
-### **ArcaneForge — RPG Web App**
-React + Tailwind mini-RPG with quests, leveling, achievements, inventory, and fantasy UI/UX.
+### Unbound v2 --- Distributed Social Media Platform
 
-### **Industrial Systems — PT CBI**
-Building real-time dashboards, production analytics, reject tracking, and monitoring systems using **CI4 + MSSQL**.
+Distributed microservices architecture:
 
----
+-   Go services: Auth, User, Chat, Notification, Gateway\
+-   Rust services: Post, Feed, Recommendation\
+-   Event-driven architecture using Redis/Kafka\
+-   Production-grade backend architecture design
 
-## 📊 GitHub Stats
+### ArcaneForge --- RPG Web App
 
-<p align="left">
-<a href="https://github.com/azdharsyahputra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azdharsyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azdharsyahputra&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Fantasy RPG web application built with React & Tailwind.\
+Features quest system, leveling, inventory, achievements, and immersive
+UI.
 
----
+### Industrial Backend Systems --- Production Environment
+
+Building backend services, dashboards, and analytics systems using:
+
+-   Go, PHP (CI4/Laravel)\
+-   MSSQL, PostgreSQL\
+-   REST APIs\
+-   Production data pipelines
+
+------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
-- 🐦 Twitter: [@muhammadazdhar3](https://twitter.com/muhammadazdhar3)
+-   Twitter: https://twitter.com/muhammadazdhar3\
+-   GitHub: https://github.com/azdharsyahputra
 
----
+------------------------------------------------------------------------
 
-⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
-
-
+⭐️ From azdharsyahputra
