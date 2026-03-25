@@ -57,11 +57,10 @@ Distributed microservices architecture:
 -   Event-driven architecture using Redis/Kafka\
 -   Production-grade backend architecture design
 
-### ArcaneForge --- RPG Web App
+### Customer Service AI Agent --- BakcendSoftware As a Services
 
-Fantasy RPG web application built with React & Tailwind.\
-Features quest system, leveling, inventory, achievements, and immersive
-UI.
+Saas Customer Service AI Agent build with Golang.\
+Features chat ai, manage product, manage response, manage users and many things.
 
 ### Industrial Backend Systems --- Production Environment
 
